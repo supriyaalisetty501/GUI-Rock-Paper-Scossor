@@ -15,10 +15,13 @@ This project allows users to play against the computer, tracks scores, and provi
 ✅ Lightweight and beginner-friendly Python project
 
 🖥️ Tech Stack
+
 Python
 Tkinter (GUI Framework)
 Random Module
+
 🎯 How It Works
+
 User selects:
 Rock 🪨
 Paper 📄
@@ -27,16 +30,21 @@ Computer randomly chooses one option.
 The game compares both choices.
 Winner is displayed instantly.
 Score gets updated.
+
 📸 Game Preview
+
 Player chooses Rock
 Computer chooses Scissors
 Result: You Win 🎉
+
 📂 Project Structure
+
 GUI-Rock-Paper-Scossor/
 │
 ├── s.py
 └── README.md
 🚀 Installation & Run
+
 Clone the repository
 git clone https://github.com/supriyaalisetty501/GUI-Rock-Paper-Scossor.git
 Navigate to project folder
